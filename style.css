@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: #a9a0a0;  
+    background-color: #949292;  
 }
 
 .quiz-container{
@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     width: 30rem;
     max-width: 80%;
-    background-color: white;
+    background-color: rgb(251, 251, 251);
     border-radius: 0.5rem;
     box-shadow: 0 0 0.6rem 0.1rem rgba(0, 0, 0, 0.1);
 }
@@ -63,7 +63,7 @@ input,
 }
 
 .btn:hover {
-    background-color:rgb(96, 84, 84)
+    background-color:rgb(155, 204, 9)
 }
 
 .hide {
