@@ -1,2 +1,4 @@
-# quiz-app
-This is a 8 question quiz over multiple cloud provider services. It is not a graded quiz. At the end you will be provided with a fraction score Ex: 8/8 means you answered all the questions correctly. If you score less than 8 out of 8 then you got a question wrong and you may restart the quiz if you want a perfect score. You may play this quiz as many times as you like there is no limit on the restart. Thank You!
+Cloud Provider Quiz App
+Welcome to the Cloud Provider Quiz App! This quiz comprises eight questions covering various cloud provider services. It's designed for learning, not grading, so no pressure! At the end of the quiz, you'll receive a score in the form of a fraction, like 8/8, indicating the number of questions answered correctly.
+
+Should you score less than 8/8, don't worry! You can restart the quiz to improve your score. Feel free to play as many times as you like—there's no limit to restarts. Thank you for participating, and enjoy the quiz!
