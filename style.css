@@ -69,3 +69,12 @@ input,
 .hide {
     display: none;          /* hides the restart btn */
 }
+
+#result {
+    margin: 2rem auto;
+}
+
+#question, #result {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
