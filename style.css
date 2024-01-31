@@ -11,8 +11,8 @@ body {
 .quiz-container{
     display: flex;
     flex-direction: column;
-    width: 30rem;
-    max-width: 80%;
+    width: 40rem;                           /* went up in rem to cover more for future questions */
+    max-width: 95%;
     background-color: white;
     border-radius: 0.5rem;
     box-shadow: 0 0 0.6rem 0.1rem rgba(0, 0, 0, 0.1);
