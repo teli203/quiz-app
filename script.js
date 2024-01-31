@@ -27,7 +27,7 @@ const questions = [
     ],
   },
   {
-    question: "What container orchestration service is provided bt Google Cloud platform?",
+    question: "What container orchestration service is provided by Google Cloud platform?",
     answers: [
       { text: "Azure Kubernetes Service (AKS)", correct: false },
       { text: "Amazon Elastic Kubernetes Service", correct: false },
