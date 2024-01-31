@@ -65,3 +65,7 @@ input,
 .btn:hover {
     background-color:rgb(96, 84, 84)
 }
+
+.hide {
+    display: none;          /* hides the restart btn */
+}
