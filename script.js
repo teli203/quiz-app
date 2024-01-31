@@ -18,5 +18,11 @@ const questions = [
     ],
   },
   {
-    
+    question: "What does AWS stand for?",
+    answers: [
+      { text: "HyperText Markup Language", correct: true },
+      { text: "HighText Machine Language", correct: false },
+      { text: "HyperText Machine Language", correct: false },
+      { text: "HighText Markup Language", correct: false },
+    ],
   }
