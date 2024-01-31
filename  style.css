@@ -51,5 +51,9 @@ body {
 
 .btn {
     padding: 1.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0 0 0.5rem 0.5rem;
 }
 
