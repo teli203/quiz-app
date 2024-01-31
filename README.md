@@ -1,1 +1,2 @@
 # quiz-app
+This is a 8 question quiz over multiple cloud provider services. It is not a graded quiz. At the end you will be provided with a fraction score Ex: 8/8 means you answered all the questions correctly. If you score less than 8 out of 8 then you got a question wrong and you may restart the quiz if you want a perfect score.
